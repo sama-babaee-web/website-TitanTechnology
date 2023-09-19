@@ -2,7 +2,7 @@
 
 ** Website | Corporate **
 
-![trick](https://github.com/sama-babaee-web/AnimationCss-Text/assets/107030945/1068d53d-8096-4415-942f-2c0f79448413)
+![titan2](https://github.com/sama-babaee-web/website-TitanTechnology/assets/107030945/ada332b9-1a2d-4c25-b41b-ec6d5361e591)
 
 
 - [Demo Project](https://sama-babaee-web.github.io/website-TitanTechnology/)
