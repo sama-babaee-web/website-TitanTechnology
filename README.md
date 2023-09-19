@@ -9,7 +9,7 @@
 
 - Developed by Sama Babaee 👻
 
-- Technologies Used - Html , css , bootstrap , js , aos , glightbox ,swiper 
+- Technologies Used - Html , css , bootstrap , javascript , aos , glightbox , swiper 
 
 - Role - Frontend
 
